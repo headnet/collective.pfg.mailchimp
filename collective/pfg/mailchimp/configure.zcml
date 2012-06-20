@@ -7,8 +7,6 @@
 
   <five:registerPackage package="." initialize=".initialize" />
 
-  <i18n:registerTranslations directory="locales"/>
-
   <genericsetup:registerProfile
       name="default"
       title="collective.pfg.mailchimp"
